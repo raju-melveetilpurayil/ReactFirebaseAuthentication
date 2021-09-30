@@ -1,0 +1,2 @@
+# ReactFirebaseAuthentication
+Practising Authentication from  "Web Dev Simplified" YT channel - Authentication is crucial for nearly every application. It can also be incredibly difficult to create a good authentication solution. This is where firebase comes in. Firebase makes it incredibly easy to create a secure authentication solution, and in this video I will be showing you how to setup firebase auth with React. https://www.youtube.com/watch?v=PKwu15ldZ7k
